@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TicTacToeClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicTacToeClient_jar</output-path>
+    <root id="archive" name="TicTacToeClient.jar">
+      <element id="module-output" name="TicTacToeClient" />
+      <element id="module-output" name="TicTacToeServer" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/TicTacToeClient/src/O.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/TicTacToeClient/src/X.png" />
+    </root>
+  </artifact>
+</component>
